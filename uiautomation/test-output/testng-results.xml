@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-21T17:29:40 PST" name="Suite" finished-at="2021-02-21T17:29:52 PST" duration-ms="12501">
+    <groups>
+    </groups>
+    <test started-at="2021-02-21T17:29:40 PST" name="Test" finished-at="2021-02-21T17:29:52 PST" duration-ms="12501">
+      <class name="WikipediaTestMe">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:40 PST" name="beforeTest" finished-at="2021-02-21T17:29:40 PST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method is-config="true" signature="beforeClass()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:40 PST" name="beforeClass" finished-at="2021-02-21T17:29:42 PST" duration-ms="2140" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method signature="verifyContentsHeadingDisplayed()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:42 PST" name="verifyContentsHeadingDisplayed" finished-at="2021-02-21T17:29:46 PST" duration-ms="4295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContentsHeadingDisplayed -->
+        <test-method signature="verifyContentsHeadingUrlActive()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:46 PST" name="verifyContentsHeadingUrlActive" finished-at="2021-02-21T17:29:47 PST" duration-ms="824" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyContentsHeadingUrlActive -->
+        <test-method signature="verifyPageNavigation()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:47 PST" name="verifyPageNavigation" finished-at="2021-02-21T17:29:51 PST" duration-ms="3474" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageNavigation -->
+        <test-method signature="verifyPopUpContents()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:51 PST" name="verifyPopUpContents" finished-at="2021-02-21T17:29:52 PST" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPopUpContents -->
+        <test-method is-config="true" signature="afterClass()[pri:0, instance:WikipediaTestMe@68dc098b]" started-at="2021-02-21T17:29:52 PST" name="afterClass" finished-at="2021-02-21T17:29:52 PST" duration-ms="719" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- WikipediaTestMe -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
